@@ -1,0 +1,37 @@
+Embedded Systems Engineering
+
+Welcome to the Embedded Systems section of Yeobo Brain Station.
+
+This section documents practical projects, experiments and technical implementations involving microcontrollers, embedded firmware, hardware interfacing and connected devices.
+
+Technologies
+
+ESP32
+
+Arduino UNO
+
+Raspberry Pi
+
+Sensors and actuators
+
+Embedded C/C++
+
+SPI, I2C and UART communication
+
+Wi-Fi and wireless communication
+
+Projects
+
+1. Control a Dot Matrix Display with Your Phone
+
+ESP32-based wireless control of a MAX7219 LED dot matrix display through a web browser.
+
+2. Smart Cattle Tracking System
+
+ESP32-based tracking using GPS, GSM and environmental monitoring.
+
+3. Embedded Firmware Experiments
+
+Practical microcontroller programming and hardware interfacing.
+
+More projects will be added with source code, circuit diagrams, photographs and technical documentation.
