@@ -1,6 +1,6 @@
-**Welcome to Yeobo Brain Station**
+## Welcome to Yeobo Brain Station
 
-**Embedded Systems | IoT | Electronics | Computer Systems | Industrial Automation**
+## Embedded Systems | IoT | Electronics | Computer Systems | Industrial Automation
 
 Welcome to Yeobo Brain Station, an engineering and technology platform dedicated to practical electronics, embedded systems, Internet of Things (IoT), computer systems, networking and industrial automation.
 
@@ -8,7 +8,7 @@ I am an Electrical and Electronic Engineering graduate, TVET Trainer and practic
 
 My goal is to transform engineering knowledge into practical solutions, document real-world projects and contribute to technology development and skills advancement in Rwanda and beyond.
 
- **Professional Background**
+ ## Professional Background
 
 I have delivered technical training across the following TVET trades:
 
@@ -20,7 +20,7 @@ Electronics and Telecommunication
 
 Electrical Technology
 
-**Modules**
+## Modules
 
 Implement Electronic Circuits
 
@@ -52,7 +52,7 @@ Electronic Enclosure Design
 
 Engineering Prototyping
 
- **Technical Skills and Tools**
+ ## Technical Skills and Tools
 
 Electronics and Circuit Design
 
@@ -132,7 +132,7 @@ Arduino IDE
 
 My strongest practical experience is in electronics, hardware systems, embedded technologies, networking and automation. I am continuously improving my software development and programming capabilities.
 
- **Engineering Projects**
+ ## Engineering Projects
 
 I develop and experiment with practical engineering solutions involving electronics, microcontrollers, IoT, automation and computer systems.
 
@@ -158,14 +158,14 @@ Electronic Circuit Design and Simulation.
 
 More projects will be documented with source code, circuit diagrams, photographs, technical explanations and demonstrations.
 
- **YouTube : Yeobo Brain Station**
+ ## YouTube : Yeobo Brain Station
 
 I also share practical engineering demonstrations, electronics tutorials, circuit simulations and technology projects on YouTube.
 
 Visit my channel:
 Explore Yeobo Brain Station on YouTube
 
- **Professional Interests**
+ ## Professional Interests
 
 Embedded Systems Engineering
 
@@ -183,13 +183,13 @@ Engineering Prototyping
 
 Technical and Vocational Education
 
- **My Vision**
+ ## My Vision
 
 To grow as an engineering innovator specializing in embedded computing, intelligent electronic systems, IoT and industrial automation.
 
 Through Yeobo Brain Station, I aim to document my engineering journey, share practical knowledge, develop useful solutions and inspire the next generation of technology innovators.
 
- **Collaboration**
+ ## Collaboration
 
 I welcome opportunities to collaborate on:
 
@@ -203,6 +203,6 @@ Engineering research and innovation
 
 Technical training and engineering education
 
-**Smart Repairs, Smarter Futures.**
+## Smart Repairs, Smarter Futures.
 
 Yeobo Brain Station ,Engineering Ideas into Practical Solutions.
