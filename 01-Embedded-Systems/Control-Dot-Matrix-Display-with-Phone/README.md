@@ -127,8 +127,3 @@ Add Wi-Fi access point mode.
 
 Embedded Systems | IoT | Electronics | Automation
 ## we do it for you
-
-
-Embedded Systems | IoT | Electronics | Automation
-
-Smart Repairs, Smarter Futures.
